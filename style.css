@@ -159,7 +159,7 @@ section:nth-of-type(4) .box:first-of-type {
 	grid-template-columns: 0.6fr 0.4fr;
 	gap: 1rem;
 	justify-content: end;
-	padding: 1rem;
+	padding: 2rem;
 }
 
 .box__content {
