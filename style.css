@@ -167,7 +167,7 @@ section:nth-of-type(4) .box:first-of-type {
 	place-items: center;
 	grid-column: 2;
 	min-height: 40cqi;
-	padding: 4rem 0rem;
+	padding: 2rem 3rem;
 	align-content: center;
 	jutify-items: start;
 }
