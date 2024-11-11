@@ -23,11 +23,10 @@ body {
 }
 
 .chopsticks {
-	height: 40%;
-	width: 80%
-	float: right;
+	height: 20%;
+	position: absolute;
 	right: 0;
-	top: 75%;
+	top: 40%;
 }
 
 .veribear {
